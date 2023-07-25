@@ -2,29 +2,6 @@
 
 Bem-vindo ao meu repositório de estudos de JavaScript! Aqui você encontrará todo o conteúdo que estudei durante as aulas do segundo período da faculdade. Vamos juntos aprimorar nossas habilidades em JavaScript! 💪😄
 
-## Conteúdo do Repositório 📂
-
-O repositório está organizado da seguinte maneira:
-
-```
-📦 javascript-intro
- ┣ 📂 aulas
- ┃ ┣ 📂 aula1
- ┃ ┃ ┗ 📜 aula1.js
- ┃ ┣ 📂 aula2
- ┃ ┃ ┗ 📜 aula2.js
- ┃ ┗ 📂 aula3
- ┃   ┗ 📜 aula3.js
- ┣ 📂 exercicios
- ┃ ┣ 📂 exercicio1
- ┃ ┃ ┗ 📜 exercicio1.js
- ┃ ┣ 📂 exercicio2
- ┃ ┃ ┗ 📜 exercicio2.js
- ┃ ┗ 📂 exercicio3
- ┃   ┗ 📜 exercicio3.js
- ┗ 📜 README.md
-```
-
 ## Como Usar 🚀
 
 1. Clone o repositório em sua máquina local utilizando o seguinte comando:
