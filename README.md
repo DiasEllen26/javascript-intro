@@ -30,13 +30,13 @@ O repositório está organizado da seguinte maneira:
 1. Clone o repositório em sua máquina local utilizando o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/javascript-segundo-periodo.git
+git clone https://github.com/DiasEllen26/javascript-intro.git
 ```
 
 2. Acesse o diretório do repositório:
 
 ```bash
-cd javascript-segundo-periodo
+cd javascript-intro
 ```
 
 3. Explore o conteúdo das pastas "aulas" e "exercicios" para ver os arquivos JavaScript com o que foi estudado.
